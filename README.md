@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://claude.ai/2e4692d1-18df-431e-bc80-0a9f16a8468f"alt="Saeed Ghazanfari — Python Backend Developer" width="100%" />
+  <img src="unconfined_u:object_r:user_home_t:s0"alt="Saeed Ghazanfari — Python Backend Developer" width="100%" />
 </p>
 
 <h1 align="center">Hi there, I'm Saeed 👋</h1>
