@@ -1,5 +1,4 @@
 <p align="center">
-  <p align="center">
   <img src="./banner.png" alt="Saeed Ghazanfari — Python Backend Developer" width="100%" />
 </p>
 
