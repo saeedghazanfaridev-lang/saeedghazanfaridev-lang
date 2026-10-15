@@ -2,7 +2,7 @@
   <img src="./banner.png" alt="Saeed Ghazanfari — Python Backend Development" width="100%" />
 </div>
 
-<h1 align="center">Hi, I'm Saeed 👋</h1>
+<h1 align="center">Hi, I'm Saeed Ghazanfari 👋</h1>
 
 <p align="center"><strong>Aspiring Python Backend Developer</strong></p>
 
