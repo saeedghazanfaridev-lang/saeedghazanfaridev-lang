@@ -35,9 +35,9 @@ I will update these levels as I gain more hands-on experience.
 
 ## Learning Resources
 
-- **Python:** *Python Crash Course, 3rd Edition* — currently studying Python fundamentals and practicing with chapter exercises.
-- **Linux:** LPIC-1 study materials — learning Linux concepts and command-line skills on Fedora.
-- **Git:** *Pro Git* — learning version control concepts and practicing Git workflows.
+- **Python:** [*Python Crash Course, 3rd Edition* — official publisher page](https://nostarch.com/node/691) — currently studying Python fundamentals and practicing chapter exercises.
+- **Linux:** [LPIC-1 — official overview and exam objectives](https://www.lpi.org/our-certifications/lpic-1-overview/) — learning Linux concepts and command-line skills on Fedora.
+- **Git:** [*Pro Git* — read the book online for free](https://git-scm.com/book/en/v2.html) — learning version control concepts and practicing Git workflows.
 
 ## Beginner Practice Project
 
@@ -59,7 +59,7 @@ This is a learning exercise, not a claim of professional experience. I plan to i
 
 ## Contact
 
-- Email: [saeed.ghazanfanri.dev@gmail.com](mailto:saeed.ghazanfarni.dev@gmail.com)
+- Email: [saeed.ghazanfarni.dev@gmail.com](mailto:saeed.ghazanfarni.dev@gmail.com)
 
 ---
 
