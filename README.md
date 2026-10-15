@@ -15,9 +15,9 @@
 
 ## About Me
 
-- 🌱 Currently studying Python fundamentals and practicing the material from Chapters 1–7.
-- 🐧 Learning Linux (Fedora) and building a regular development workflow.
-- 🔧 Practicing Git and GitHub as I learn.
+- 🌱 Studying Python fundamentals and working through *Python Crash Course, 3rd Edition*.
+- 🐧 Learning Linux on Fedora with LPIC-1 study materials.
+- 🔧 Studying Git with the book *Pro Git* and practicing with GitHub.
 - 🎯 My long-term goal is to build backend applications with Python.
 
 ## Skills & Tools
@@ -32,6 +32,12 @@
 `Functions and OOP` · `SQL / PostgreSQL` · `FastAPI` · `Django` · `Docker`
 
 I will update these levels as I gain more hands-on experience.
+
+## Learning Resources
+
+- **Python:** *Python Crash Course, 3rd Edition* — currently studying Python fundamentals and practicing with chapter exercises.
+- **Linux:** LPIC-1 study materials — learning Linux concepts and command-line skills on Fedora.
+- **Git:** *Pro Git* — learning version control concepts and practicing Git workflows.
 
 ## Beginner Practice Project
 
@@ -53,7 +59,7 @@ This is a learning exercise, not a claim of professional experience. I plan to i
 
 ## Contact
 
-- Email: [saeedghazanfarni.dev@gmail.com](mailto:saeedghazanfarni.dev@gmail.com)
+- Email: [saeed.ghazanfanri.dev@gmail.com](mailto:saeed.ghazanfarni.dev@gmail.com)
 
 ---
 
