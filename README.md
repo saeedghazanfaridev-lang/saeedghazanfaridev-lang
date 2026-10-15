@@ -4,50 +4,49 @@
 
 <h1 align="center">Hi, I'm Saeed 👋</h1>
 
-<p align="center">
-  <strong>Aspiring Python Backend Developer</strong>
-</p>
+<p align="center"><strong>Aspiring Python Backend Developer</strong></p>
 
 <p align="center">
-  I'm learning Python step by step and turning what I study into small, practical projects.
-  My goal is to grow into a backend developer by writing clear code, solving problems, and learning through practice.
+  I'm learning Python step by step with <em>Python Crash Course, 3rd Edition</em>.
+  I practice by writing small programs, understanding the fundamentals, and improving a little at a time.
 </p>
 
 ---
 
 ## About Me
 
-- 🌱 Currently practicing Python fundamentals, including strings, lists, dictionaries, conditions, and loops.
-- 🐧 Learning to use Linux (Fedora) as part of my development workflow.
-- 🔧 Building consistent Git and GitHub habits while improving my code.
-- 🎯 Working toward backend development with Python.
+- 🌱 Currently studying Python fundamentals and practicing the material from Chapters 1–7.
+- 🐧 Learning Linux (Fedora) and building a regular development workflow.
+- 🔧 Practicing Git and GitHub as I learn.
+- 🎯 My long-term goal is to build backend applications with Python.
 
 ## Skills & Tools
 
-**Practicing now:**  
-`Python` · `Git` · `GitHub` · `Linux (Fedora)`
+**Currently practicing:**  
+`Python fundamentals` · `Git` · `GitHub` · `Linux (Fedora)`
 
-**Exploring:**  
-`Docker` · `SQL` · `PostgreSQL` · `FastAPI` · `Django`
+**On my learning roadmap:**  
+`Functions and OOP` · `SQL / PostgreSQL` · `FastAPI` · `Django` · `Docker`
 
-I'm listing technologies according to my current learning stage and will update this section as I gain more hands-on experience.
+I will update this list as I study and gain hands-on experience.
 
-## Projects
+## Beginner Practice Project
 
-### Python Task Tracker
-A small command-line learning project for practicing Python lists, dictionaries, loops, functions, input validation, and unit tests.
+### Python Study Topics Menu
 
-- [Open the project](./projects/python-task-tracker/)
-- [Read the project README](./projects/python-task-tracker/README.md)
+A small command-line exercise based on the Python concepts I am currently studying. It lets a user display, add, and remove study topics using lists, strings, conditions, and loops.
 
-I'll add more projects as I build and document them.
+- [View the project](./projects/python-study-topics/)
+- [Read its README](./projects/python-study-topics/README.md)
+
+This is a learning exercise, not a claim of professional experience. I plan to improve it as I learn more Python.
 
 ## Learning Next
 
-- Python functions and object-oriented programming
-- SQL and PostgreSQL fundamentals
-- Building REST APIs with FastAPI or Django
-- Automated testing and Docker fundamentals
+- Continue through *Python Crash Course*
+- Learn functions and object-oriented programming
+- Practice SQL and PostgreSQL
+- Build my first REST API when my Python fundamentals are ready
 
 ## Contact
 
