@@ -1,51 +1,58 @@
+<div align="center">
+  <img src="./banner.png" alt="Saeed Ghazanfari — Python Backend Development" width="100%" />
+</div>
+
+<h1 align="center">Hi, I'm Saeed 👋</h1>
+
 <p align="center">
-  <img src="./banner.png"alt="Saeed Ghazanfari — Python Backend Developer" width="100%" />
+  <strong>Aspiring Python Backend Developer</strong>
 </p>
 
-<h1 align="center">Hi there, I'm Saeed 👋</h1>
-<h3 align="center">🐍 Python Backend Developer</h3>
-
 <p align="center">
-  I'm learning Python and building my skills in backend development, problem-solving, Docker, and Linux.
-  My goal is to become a professional backend developer by building practical projects and writing clean, readable code.
+  I'm learning Python step by step and turning what I study into small, practical projects.
+  My goal is to grow into a backend developer by writing clear code, solving problems, and learning through practice.
 </p>
 
 ---
 
-## 🤝 Connect with me
+## About Me
 
-<p>
-  <a href="mailto:saeed.ghazanfarni.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-0A66C2?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
+- 🌱 Currently practicing Python fundamentals, including strings, lists, dictionaries, conditions, and loops.
+- 🐧 Learning to use Linux (Fedora) as part of my development workflow.
+- 🔧 Building consistent Git and GitHub habits while improving my code.
+- 🎯 Working toward backend development with Python.
 
-## 🌱 What I'm Learning & Working On
+## Skills & Tools
 
-- Practicing Python with exercises and small programs, and deepening my object-oriented programming skills
-- Docker and containerization basics
-- A consistent Git, GitHub, and Linux workflow
-- Core backend development concepts, with a focus on clean and readable code
+**Practicing now:**  
+`Python` · `Git` · `GitHub` · `Linux (Fedora)`
 
-## 🎯 My Learning Goals
+**Exploring:**  
+`Docker` · `SQL` · `PostgreSQL` · `FastAPI` · `Django`
 
-- Deepen my OOP skills and apply them in real projects
-- Learn Django and FastAPI
-- Practice SQL and PostgreSQL
-- Build well-structured REST APIs
-- Looking for a Python backend internship
+I'm listing technologies according to my current learning stage and will update this section as I gain more hands-on experience.
 
-## 🧰 Tools & Technologies
+## Projects
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,docker,git,github,linux,vscode" alt="Python, Docker, Git, GitHub, Linux, and VS Code" />
-</p>
+### Python Task Tracker
+A small command-line learning project for practicing Python lists, dictionaries, loops, functions, input validation, and unit tests.
 
-> I'm actively learning these tools. I'll add more technologies as I gain real project experience.
+- [Open the project](./projects/python-task-tracker/)
+- [Read the project README](./projects/python-task-tracker/README.md)
 
-## 🛠️ What I'm Working Toward
+I'll add more projects as I build and document them.
 
-Building practical backend projects, understanding how software systems work, and improving one step at a time.
+## Learning Next
 
-<p align="center"><b>Learn · Build · Grow 🚀</b></p>
-</p>
+- Python functions and object-oriented programming
+- SQL and PostgreSQL fundamentals
+- Building REST APIs with FastAPI or Django
+- Automated testing and Docker fundamentals
+
+## Contact
+
+- Email: [saeed.ghazanfarni.dev@gmail.com](mailto:saeed.ghazanfarni.dev@gmail.com)
+
+---
+
+<p align="center"><sub>Learn · Build · Improve</sub></p>
