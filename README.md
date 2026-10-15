@@ -22,13 +22,16 @@
 
 ## Skills & Tools
 
-**Currently practicing:**  
-`Python fundamentals` · `Git` · `GitHub` · `Linux (Fedora)`
+**Beginner — actively learning:**  
+`Python fundamentals`
+
+**Intermediate — building practical experience:**  
+`Git` · `GitHub` · `Linux (Fedora)`
 
 **On my learning roadmap:**  
 `Functions and OOP` · `SQL / PostgreSQL` · `FastAPI` · `Django` · `Docker`
 
-I will update this list as I study and gain hands-on experience.
+I will update these levels as I gain more hands-on experience.
 
 ## Beginner Practice Project
 
@@ -50,7 +53,7 @@ This is a learning exercise, not a claim of professional experience. I plan to i
 
 ## Contact
 
-- Email: [saeed.ghazanfarni.dev@gmail.com](mailto:saeed.ghazanfarni.dev@gmail.com)
+- Email: [saeedghazanfarni.dev@gmail.com](mailto:saeedghazanfarni.dev@gmail.com)
 
 ---
 
