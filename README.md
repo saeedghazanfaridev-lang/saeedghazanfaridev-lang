@@ -39,7 +39,15 @@ I will update these levels as I gain more hands-on experience.
 - **Linux:** [LPIC-1 — official overview and exam objectives](https://www.lpi.org/our-certifications/lpic-1-overview/) — learning Linux concepts and command-line skills on Fedora.
 - **Git:** [*Pro Git* — read the book online for free](https://git-scm.com/book/en/v2.html) — learning version control concepts and practicing Git workflows.
 
-## Beginner Practice Project
+## Projects
+
+### Clinfay — Clinic Discovery Website
+
+A Persian-language clinic discovery website designed to help users explore healthcare centers by specialty, location, and visit type.
+
+- **Repository:** [View Clinfay on GitHub](https://github.com/saeedghazanfaridev-lang/clinfay)
+- **Status:** In progress — the React frontend currently uses sample data; a Python backend is planned.
+- **Tech stack:** React · JavaScript · Vite · Tailwind CSS
 
 ### Python Study Topics Menu
 
