@@ -51,15 +51,6 @@ A Persian-language clinic-discovery frontend designed to help users explore heal
 - **Status:** In progress — the React frontend currently uses sample data. Real clinic search, authentication, appointment booking, and a Python backend are not implemented yet.
 - **Tech stack:** React · JavaScript · Vite · Tailwind CSS
 
-### Python Study Topics Menu
-
-A small command-line learning exercise based on the Python concepts I am currently studying. It lets a user display, add, and remove study topics using lists, strings, conditions, and loops.
-
-- [View the project](./projects/python-study-topics/)
-- [Read its README](./projects/python-study-topics/README.md)
-
-This is a learning exercise, not a claim of professional experience. I plan to improve it as I learn more Python.
-
 ## Learning Next
 
 - Continue through *Python Crash Course*
