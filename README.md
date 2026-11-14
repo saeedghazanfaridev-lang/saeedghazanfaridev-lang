@@ -17,7 +17,8 @@
 
 - 🌱 Studying Python fundamentals and working through *Python Crash Course, 3rd Edition*.
 - 🐧 Learning Linux on Fedora with LPIC-1 study materials.
-- 🔧 Studying Git with the book *Pro Git* and practicing with GitHub.
+- 🔧 Studying Git with *Pro Git* and practicing with GitHub.
+- 💼 Previous experience as a Front-End Developer Intern at Datin Company (Jul 2025 - Aug 2025).
 - 🎯 My long-term goal is to build backend applications with Python.
 
 ## Skills & Tools
@@ -41,17 +42,18 @@ I will update these levels as I gain more hands-on experience.
 
 ## Projects
 
-### Clinfay — Clinic Discovery Website
+### Clinify — Clinic Discovery Frontend
 
-A Persian-language clinic discovery website designed to help users explore healthcare centers by specialty, location, and visit type.
+A Persian-language clinic-discovery frontend designed to help users explore healthcare centers by specialty, location, and visit type.
 
-- **Repository:** [View Clinfay on GitHub](https://github.com/saeedghazanfaridev-lang/clinfay)
-- **Status:** In progress — the React frontend currently uses sample data; a Python backend is planned.
+- **Repository:** [View Clinify on GitHub](https://github.com/saeedghazanfaridev-lang/clinfay) (repository name: `clinfay`)
+- **Live demo:** [clinify-react.vercel.app](https://clinify-react.vercel.app/)
+- **Status:** In progress — the React frontend currently uses sample data. Real clinic search, authentication, appointment booking, and a Python backend are not implemented yet.
 - **Tech stack:** React · JavaScript · Vite · Tailwind CSS
 
 ### Python Study Topics Menu
 
-A small command-line exercise based on the Python concepts I am currently studying. It lets a user display, add, and remove study topics using lists, strings, conditions, and loops.
+A small command-line learning exercise based on the Python concepts I am currently studying. It lets a user display, add, and remove study topics using lists, strings, conditions, and loops.
 
 - [View the project](./projects/python-study-topics/)
 - [Read its README](./projects/python-study-topics/README.md)
@@ -61,13 +63,13 @@ This is a learning exercise, not a claim of professional experience. I plan to i
 ## Learning Next
 
 - Continue through *Python Crash Course*
-- Learn functions and object-oriented programming
+- Learn object-oriented programming
 - Practice SQL and PostgreSQL
 - Build my first REST API when my Python fundamentals are ready
 
 ## Contact
 
-- Email: [saeed.ghazanfarni.dev@gmail.com](mailto:saeed.ghazanfarni.dev@gmail.com)
+- Email: [saeed.ghazanfari.dev@gmail.com](mailto:saeed.ghazanfari.dev@gmail.com)
 
 ---
 
